@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my Masters in CS at UT Austin.
+- 🔭 
 
 <!--
 **pwentzeljr/pwentzeljr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
